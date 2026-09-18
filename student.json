@@ -1,1 +1,43 @@
 
+[
+  {
+    "id": 101,
+    "name": "Alice Johnson",
+    "year": 3,
+    "course": "Computer Science",
+    "grades": [88, 92, 95, 90],
+    "enrolled": true
+  },
+  {
+    "id": 102,
+    "name": "Bob Smith",
+    "year": 2,
+    "course": "Mathematics",
+    "grades": [75, 80, 78, 82],
+    "enrolled": true
+  },
+  {
+    "id": 103,
+    "name": "Charlie Brown",
+    "year": 4,
+    "course": "Computer Science",
+    "grades": [95, 98, 100, 92],
+    "enrolled": false
+  },
+  {
+    "id": 104,
+    "name": "Diana Prince",
+    "year": 1,
+    "course": "Physics",
+    "grades": [85, 89, 91, 87],
+    "enrolled": true
+  },
+  {
+    "id": 105,
+    "name": "Evan Wright",
+    "year": 2,
+    "course": "Mathematics",
+    "grades": [],
+    "enrolled": false
+  }
+]
