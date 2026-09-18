@@ -1,1 +1,22 @@
-
+{
+  "totalStudents": 5,
+  "overallAverageGrade": 73.5,
+  "topStudent": {
+    "name": "Charlie Brown",
+    "averageGrade": 96.25
+  },
+  "courseBreakdown": [
+    {
+      "course": "Computer Science",
+      "averageGrade": 93.75
+    },
+    {
+      "course": "Physics",
+      "averageGrade": 88
+    },
+    {
+      "course": "Mathematics",
+      "averageGrade": 39.38
+    }
+  ]
+}
